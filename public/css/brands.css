@@ -98,13 +98,13 @@ button {
 /* Figma */
 .button.button-figma {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Github */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Goodreads */
@@ -122,7 +122,7 @@ button {
 /* Kit */
 .button.button-kit {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Letterboxd */
@@ -140,7 +140,7 @@ button {
 /* Medium */
 .button.button-medium {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Micro.blog */
@@ -209,7 +209,7 @@ button {
 /* TikTok */
 .button.button-tiktok {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Tumblr */
@@ -246,7 +246,7 @@ button {
 /* YouTube */
 .button.button-youtube {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 
@@ -444,7 +444,7 @@ button {
 /* YouTube Music */
 .button.button-youtubemusic {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Venmo */
@@ -548,7 +548,7 @@ button {
 /* jetphotos */
 .button.button-jetphotos {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* substack */
@@ -572,7 +572,7 @@ button {
 /* threads */
 .button.button-threads {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* lemmy */
@@ -596,7 +596,7 @@ button {
 /* X */
 .button.button-x {
   color: #000000;
-  background-color: #000000;
+ background-color: #292929;
 }
 
 /* Codewars */
@@ -608,7 +608,7 @@ button {
 /* Apple Podcasts */
 .button.button-apple-podcasts {
   color: #ffffff;
-  background-color: #000000;
+ background-color: #292929;
   border: 1px solid #FFFFFF;
 }
 .button.button-apple-podcasts:hover,
