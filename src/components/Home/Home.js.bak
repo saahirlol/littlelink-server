@@ -177,7 +177,7 @@ function Home(props) {
                 <Button
                   name="youtube"
                   href={runtimeConfig.YOUTUBE}
-                  displayName="Youtube"
+                  displayName="YouTube"
                   logo={youtubeLogo}
                   order={buttonOrder('YOUTUBE')}
                 />
@@ -213,7 +213,7 @@ function Home(props) {
                 <Button
                   name="github"
                   href={runtimeConfig.GITHUB}
-                  displayName="Github"
+                  displayName="GitHub"
                   logo={githubLogo}
                   order={buttonOrder('GITHUB')}
                 />
@@ -232,7 +232,7 @@ function Home(props) {
                 <Button
                   name="tiktok"
                   href={runtimeConfig.TIKTOK}
-                  displayName="Tiktok"
+                  displayName="TikTok"
                   logo={tiktokLogo}
                   order={buttonOrder('TIKTOK')}
                 />
@@ -259,7 +259,7 @@ function Home(props) {
                 <Button
                   name="linkedin"
                   href={runtimeConfig.LINKED_IN}
-                  displayName="Linkedin"
+                  displayName="LinkedIn"
                   logo={linkedinLogo}
                   order={buttonOrder('LINKED_IN')}
                 />
@@ -277,7 +277,7 @@ function Home(props) {
                 <Button
                   name="snapchat"
                   href={runtimeConfig.SNAPCHAT}
-                  displayName="Snapchat"
+                  displayName="SnapChat"
                   logo={snapchatLogo}
                   order={buttonOrder('SNAPCHAT')}
                 />
@@ -342,7 +342,7 @@ function Home(props) {
                 <Button
                   name="soundcloud"
                   href={runtimeConfig.SOUND_CLOUD}
-                  displayName="Soundcloud"
+                  displayName="SoundCloud"
                   logo={soundcloudLogo}
                   order={buttonOrder('SOUND_CLOUD')}
                 />
@@ -454,7 +454,7 @@ function Home(props) {
                 <Button
                   name="whatsapp"
                   href={runtimeConfig.WHATSAPP}
-                  displayName="Whatsapp"
+                  displayName="WhatsApp"
                   logo={whatsappLogo}
                   order={buttonOrder('WHATSAPP')}
                 />
@@ -481,7 +481,7 @@ function Home(props) {
                 <Button
                   name="bluesky"
                   href={runtimeConfig.BLUESKY}
-                  displayName="Bluesky"
+                  displayName="BlueSky"
                   logo={blueSkyLogo}
                   order={buttonOrder('BLUESKY')}
                 />
@@ -499,7 +499,7 @@ function Home(props) {
                 <Button
                   name="gitlab"
                   href={runtimeConfig.GITLAB}
-                  displayName="Gitlab"
+                  displayName="GitLab"
                   logo={gitlabLogo}
                   order={buttonOrder('GITLAB')}
                 />
@@ -544,7 +544,7 @@ function Home(props) {
                 <Button
                   name="stackoverflow"
                   href={runtimeConfig.STACKOVERFLOW}
-                  displayName="Stack"
+                  displayName="stack"
                   logo={stackoverflowLogo}
                   order={buttonOrder('STACKOVERFLOW')}
                 />
@@ -607,7 +607,7 @@ function Home(props) {
                 <Button
                   name="ghost"
                   href={runtimeConfig.GHOST}
-                  displayName="Ghost"
+                  displayName="ghost"
                   logo={ghostLogo}
                   order={buttonOrder('GHOST')}
                 />
@@ -661,7 +661,7 @@ function Home(props) {
                 <Button
                   name="onlyfans"
                   href={runtimeConfig.ONLYFANS}
-                  displayName="Onlyfans"
+                  displayName="OnlyFans"
                   logo={onlyfansLogo}
                   order={buttonOrder('ONLYFANS')}
                 />
@@ -769,7 +769,7 @@ function Home(props) {
                 <Button
                   name="anilist"
                   href={runtimeConfig.ANILIST}
-                  displayName="Anilist"
+                  displayName="AniList"
                   logo={anilistLogo}
                   order={buttonOrder('ANILIST')}
                 />
@@ -778,7 +778,7 @@ function Home(props) {
                 <Button
                   name="gitbucket"
                   href={runtimeConfig.GITBUCKET}
-                  displayName="Gitbucket"
+                  displayName="GitBucket"
                   logo={gitbucketLogo}
                   order={buttonOrder('GITBUCKET')}
                 />
@@ -823,7 +823,7 @@ function Home(props) {
                 <Button
                   name="kakaoTalk"
                   href={runtimeConfig.KAKAOTALK}
-                  displayName="Kakaotalk"
+                  displayName="KakaoTalk"
                   logo={kakaoLogo}
                   order={buttonOrder('KAKAOTALK')}
                 />
@@ -859,7 +859,7 @@ function Home(props) {
                 <Button
                   name="vero"
                   href={runtimeConfig.VERO}
-                  displayName="Vero"
+                  displayName="VERO"
                   logo={veroLogo}
                   order={buttonOrder('VERO')}
                 />
@@ -868,7 +868,7 @@ function Home(props) {
                 <Button
                   name="myAnimeList"
                   href={runtimeConfig.MYANIMELIST}
-                  displayName="Myanimelist"
+                  displayName="MyAnimeList"
                   logo={myAnimeListLogo}
                   order={buttonOrder('MYANIMELIST')}
                 />
@@ -886,7 +886,7 @@ function Home(props) {
                 <Button
                   name="jetphotos"
                   href={runtimeConfig.JETPHOTOS}
-                  displayName="Jetphotos"
+                  displayName="JetPhotos"
                   logo={jetphotosLogo}
                   order={buttonOrder('JETPHOTOS')}
                 />
@@ -949,7 +949,7 @@ function Home(props) {
                 <Button
                   name="vrchat"
                   href={runtimeConfig.VRCHAT}
-                  displayName="Vrchat"
+                  displayName="VRChat"
                   logo={vrchatLogo}
                   order={buttonOrder('VRCHAT')}
                 />
@@ -1012,7 +1012,7 @@ function Home(props) {
                 <Button
                   name="rss"
                   href={runtimeConfig.RSS}
-                  displayName="Rss"
+                  displayName="RSS"
                   logo={rssLogo}
                   order={buttonOrder('RSS')}
                 />
@@ -1048,7 +1048,7 @@ function Home(props) {
                 <Button
                   name="orcid"
                   href={runtimeConfig.ORCID}
-                  displayName="Orcid"
+                  displayName="ORCID"
                   logo={orcidLogo}
                   order={buttonOrder('ORCID')}
                 />
@@ -1093,7 +1093,7 @@ function Home(props) {
                 <Button
                   name="mixcloud"
                   href={runtimeConfig.MIXCLOUD}
-                  displayName="Mixcloud"
+                  displayName="MIXCLOUD"
                   logo={mixcloudLogo}
                   order={buttonOrder('MIXCLOUD')}
                 />
